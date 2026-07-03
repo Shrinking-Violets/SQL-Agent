@@ -2,8 +2,6 @@ import sqlite3
 import pandas as pd
 import os
 
-
-
 DB_NAME = "insights.db"
 
 def setup_database():
